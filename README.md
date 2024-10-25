@@ -1,5 +1,5 @@
 
-# Truss Structure Analysis with Regression and CNNs
+# Truss Structure Analysis with MLP and CNNs
 
 ## Overview
 This project uses machine learning techniques to predict weight and energy values for truss structures and employs Convolutional Neural Networks (CNNs) for stability classification. Aiming to enhance structural safety and optimization in civil engineering, this work offers engineers tools for analyzing structural characteristics and making informed safety decisions.
