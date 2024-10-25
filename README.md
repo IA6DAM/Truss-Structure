@@ -25,7 +25,7 @@ This project applies regression models to predict weight and energy values of tr
 ## Usage
 1. **Clone the repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/IA6DAM/Truss-Structure.git)
+   git clone https://github.com/IA6DAM/Truss-Structure.git
    cd Deep-Learning-Project_Truss-Structure
    ```
 
